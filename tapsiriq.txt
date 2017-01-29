@@ -1,0 +1,13 @@
+proqramlasdirma paradiqmasi:proqram yaratmaq ucun yol ve usullar gosderir ve praqram yaradilmasini asanlasdirir/
+1)Imperative paradigm: nezaret axisi acix emir sirasi
+2)Functional paradigm: ic-ice olan funksiyalar
+3)Logic paradigm: proqramci faktlar ve qaydalar daxil edir ve bu sertler ve qaydalara uygun suallara cavab verir
+4) Object-oriented paradigm: hesablamalar obyektlere mesaj gondererek isleyir obyektlerin vezife ve davranislari var
+  
+ Object Oriented Programming
+1)Object: melumatlarda duzelis etmek ucun usullardan ibaretdir
+2)Class: ozune aid olan ferqli obyektlerin butun ortaq xususiyyetlerini mueyyen edir
+3)Inheritance: ferqli siniflerin bir-biri arasindaki elaqeni gosderen xususiyet
+4)Polymorphism: bir proqramlasdirma dilinde melumatin novune ve ya sinifine gore emal olunmasi
+5)Abstraction: obyektlerin ve merhelelerin ortaq xususiyyetine ortaya cixarma vaxti
+6)Encapsulation: yeni varliq emele getirmek ucun elementlerin birlesme vaxdi
